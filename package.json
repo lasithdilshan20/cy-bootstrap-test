@@ -1,0 +1,41 @@
+{
+  "name": "cy-bootstrap-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cypress-bootstrap": "^1.0.3"
+  },
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.2.5",
+    "@cypress/grep": "^4.1.0",
+    "@types/node": "^20.11.5",
+    "ajv": "^8.16.0",
+    "axe-core": "^4.10.3",
+    "cypress": "^14.3.3",
+    "cypress-ajv-schema-validator": "^1.4.0",
+    "cypress-axe": "^1.6.0",
+    "cypress-intercept-search": "^1.0.4",
+    "cypress-localstorage-commands": "^2.2.3",
+    "cypress-map": "^1.43.0",
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "cypress-multi-reporters": "^1.6.4",
+    "cypress-plugin-api": "^2.11.2",
+    "cypress-real-events": "^1.14.0",
+    "cypress-recurse": "^1.35.3",
+    "cypress-wait-until": "^1.7.0",
+    "date-fns": "^3.6.0",
+    "dayjs": "^1.10.4",
+    "eslint": "^7.11.0",
+    "jest-junit": "^11.1.0",
+    "mocha-junit-reporter": "^2.2.1",
+    "prettier": "^2.8.8",
+    "typescript": "^5.5.4"
+  }
+}
